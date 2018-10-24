@@ -9,5 +9,8 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "autoload": {
+    	"psr-4": {"excellent3207\\captcha\\": "src"}
+    }
 }
