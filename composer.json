@@ -1,0 +1,13 @@
+{
+    "name": "excellent3207/captcha",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "excellent3207",
+            "email": "yongbuyanbai.good@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
